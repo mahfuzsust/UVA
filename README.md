@@ -1,4 +1,5 @@
-UVA-SolvedCodes
+UVA
 ===============
+UVA problem solutions are listed here.
 
-Solved problems by me of UVA online judge site are stored here.
+My uva statistics url: http://q.gs/9L4ZN
