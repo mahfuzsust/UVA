@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#define MAX(x, y) (((x) > (y)) ? (x) : (y))
 int main() {
-    int m, n;
     char str[105], ptr[105];
     while(scanf("%s", str) && strcmp(str, "E-N-D")) {
 
