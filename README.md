@@ -2,4 +2,4 @@ UVA
 ===============
 UVA problem solutions are listed here.
 
-My uva statistics url: http://q.gs/9L4ZN
+My uva statistics url: https://goo.gl/mhK4dM
